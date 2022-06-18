@@ -30,7 +30,7 @@ Jogo feito em Python que roda um jogo da memória customizável no terminal.
 
 ### Jokenpô
 Jogo de Jokenpô (Pedra, Papel e Tesoura) feito em Python.
-<p> <img src=".images/jokenpo.png"> </p>
+<p> <img src="./images/jokenpo.png"> </p>
 
 ## Resolução de Problemas com Lógica Matemática
 
@@ -51,7 +51,7 @@ utilizando a tecnologia do Raspberry Pi.
 
 ### Minha Vida Universitária
 Projeto sobre reflexão e planejamento da minha vida como universitário.
-<p> <img src=".images/pvu.png"> </p>
+<p> <img src="./images/pvu.png"> </p>
 
 <hr/>
 
