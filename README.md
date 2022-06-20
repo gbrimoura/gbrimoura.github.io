@@ -20,6 +20,11 @@ Um aplicativo para os fãs da série de livros Harry Potter.
 
 <p> <img src="./images/mhpbr.png"></p>
 
+### Tautológicos eSports
+Site sobre um time fictício de Counter-Strike: Global Offensive, criado por dois dos maiores jogadores do Brasil.
+A finalidade do site é buscar novos integrantes para o time.
+
+<p> <img src="./images/tautologicos.png"></p>
 
 ## Raciocínio Algorítmico
 
